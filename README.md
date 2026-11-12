@@ -1,11 +1,11 @@
-# 🛒 Sistema de Control de Inventarios y Ventas
+# Sistema de Control de Inventarios y Ventas
 
 Aplicación web desarrollada para optimizar la gestión operativa, el registro de ventas en tiempo real y el control financiero de inventarios UNA TIENDA DE LICORES
 
 
 ---
 
-## 🚀 Características Principales
+## Características Principales
 
 * **Gestión de Inventario:** Control detallado de stock con actualización automática tras cada venta.
 * **Registro de Ventas y Gastos:** Cálculo automatizado de ingresos, costos y márgenes de ganancia por producto.
@@ -15,7 +15,7 @@ Aplicación web desarrollada para optimizar la gestión operativa, el registro d
 
 ---
 
-## 🛠️ Tecnologías Utilizadas
+##  Tecnologías Utilizadas
 
 * **Frontend:** HTML5, CSS3, JavaScript (ES6+)
 * **Base de Datos & Backend:** Firebase Realtime Database
@@ -24,7 +24,7 @@ Aplicación web desarrollada para optimizar la gestión operativa, el registro d
 
 ---
 
-## 📋 Estructura del Proyecto
+##  Estructura del Proyecto
 
 ```text
 ├── css/             # Estilos y diseño responsivo
