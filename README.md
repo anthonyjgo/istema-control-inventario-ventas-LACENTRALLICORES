@@ -1,6 +1,7 @@
 # 🛒 Sistema de Control de Inventarios y Ventas
 
-Aplicación web desarrollada para optimizar la gestión operativa, el registro de ventas en tiempo real y el control financiero de inventarios en negocios comerciales.
+Aplicación web desarrollada para optimizar la gestión operativa, el registro de ventas en tiempo real y el control financiero de inventarios UNA TIENDA DE LICORES
+
 
 ---
 
